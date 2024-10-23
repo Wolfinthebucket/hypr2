@@ -1,0 +1,28 @@
+* {
+	border-radius: 10px;
+}
+
+window {
+	font-size: 20px;
+	background-color: rgba(34, 40, 49, 0.7);
+	color: #F05454;
+}
+#entry {
+	padding: 0.25em;
+	margin-left: 2px;
+	margin-right: 2px;
+}
+#entry:selected {
+	background-color: #F05454;
+}
+#text:selected {
+	color: #222831;
+}
+#input {
+	background-color: #222831;
+	color: #F05454;
+	padding 0.25em;
+	border: #F05454 solid 2px;
+	margin: 5px;
+	margin-bottom: 20px;
+}
